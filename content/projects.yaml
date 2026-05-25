@@ -1,0 +1,106 @@
+---
+type: project
+title: Pomodoro Focus
+status: active
+featured: true
+size: square
+description: A minimal pomodoro timer that lives in your browser tab.
+  Customizable intervals, gentle sounds, and a streak tracker to keep you
+  honest.
+stack:
+  - Next.js
+  - TypeScript
+  - Tailwind CSS
+start_date: 2026-02
+link: https://github.com/yourname/pomodoro-focus
+modal: true
+icon: lucide:clock
+tag: Web App
+tag_color: "#6366f1"
+---
+type: project
+title: Markdown Scratchpad
+status: active
+featured: true
+size: square
+description: A distraction-free markdown editor with local-first storage, live
+  preview, and a single keyboard shortcut to copy formatted output anywhere.
+stack:
+  - React
+  - Vite
+  - IndexedDB
+start_date: 2026-01
+link: https://github.com/yourname/markdown-scratchpad
+modal: true
+icon: si:react
+tag: Open Source
+tag_color: "#22c55e"
+---
+type: project
+title: Weather Glance
+status: building
+featured: false
+size: square
+description: A tiny weather dashboard for your favorite cities, built around a
+  clean grid and honest forecasts. No ads, no tracking.
+stack:
+  - SvelteKit
+  - TypeScript
+start_date: 2026-04
+link: https://github.com/yourname/weather-glance
+modal: true
+icon: lucide:cloud
+tag: Side Project
+tag_color: "#0ea5e9"
+---
+type: project
+title: Recipe Vault
+status: idea
+featured: false
+size: square
+description: |-
+  A cozy place to save the recipes you actually cook.
+  Tag by mood, season, or who taught you.
+
+  Planning to start in the summer.
+stack: []
+start_date: 2026-06
+modal: false
+icon: lucide:book
+tag: Concept
+tag_color: "#f59e0b"
+---
+type: project
+title: Portfolio Template
+status: active
+featured: false
+size: square
+description: The open-source bento-grid template powering this very site. Edit
+  YAML files (or use the in-browser dev mode) and ship a static site.
+stack:
+  - Next.js
+  - TypeScript
+  - YAML
+start_date: 2026-01
+link: https://github.com/yourname/portfolio-template
+modal: false
+icon: si:github
+tag: Template
+tag_color: "#a855f7"
+---
+type: project
+title: Old Blog Engine
+status: archived
+featured: false
+size: square
+description: A static blog generator I built to learn Go. Still online, no
+  longer maintained — kept here as a souvenir.
+stack:
+  - Go
+  - HTML
+start_date: 2025-03
+link: https://github.com/yourname/old-blog-engine
+modal: true
+icon: si:go
+tag: Archive
+tag_color: "#94a3b8"

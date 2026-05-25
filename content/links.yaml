@@ -1,0 +1,20 @@
+---
+type: link
+url: https://github.com/yourname
+label: GitHub
+size: square
+---
+type: link
+url: https://linkedin.com/in/yourname
+label: LinkedIn
+size: square
+---
+type: link
+url: https://x.com/yourname
+label: X
+size: square
+---
+type: link
+url: mailto:hello@yourname.dev
+label: Email
+size: square
